@@ -11,6 +11,8 @@ This project bridges thermodynamic engineering mathematics with real-world, ever
 *   **Engineering Context:** composite polymer specimens (`ePAHT-CF`) inside tensile machine furnaces for mechanical material tests.
 *   **Culinary Context:** A carbon steel baking pizza stone preheating inside a home oven, or a thick beef steak heating through its thickness.
 
+![Heat Equation Simulation](animation.gif)
+
 ### Features
 *   **Built-in Materials:** Presets for engineering polymer, carbon steel, and meat.
 *   **Custom Inputs:** Enter custom physical properties (density, specific heat capacity, conductivity).

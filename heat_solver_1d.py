@@ -267,7 +267,7 @@ def run_simulation(cfg):
             update_dashboard(fig, ax1, ax2, ax3, pcm, u_new, length, length_arr, min_u, max_u, 
                              D, time_actual, material, time_data, RMS_diff_data, Diff_max_data)
             
-            if time_step % 100 == 0:
+            if time_step % 10 == 0:
                 filename = os.path.join(save_path, f'{time_step}_{material}_{time_actual:.1f}s.png')
                 plt.savefig(filename)
 

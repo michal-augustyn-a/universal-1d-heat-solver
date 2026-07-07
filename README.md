@@ -1,5 +1,6 @@
 # Universal 1D Heat Transfer Solver
 June 2024
+
 Python tool that solves the 1D Heat Equation using the numerical Finite Difference Method (FDM). It calculates the continuous distribution of temperature across an object's thickness over time and outputs when thermal equilibrium is fully achieved.
 
 ---
